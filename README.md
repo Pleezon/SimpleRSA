@@ -1,4 +1,4 @@
 # SimpleRSA
-My kind of RSA^^  
+Fun implementation of the RSA algorithm.
 warning: 
 use at own risk.
